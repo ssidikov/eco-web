@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "title": "Eco-Responsible Web Development — AI-Powered European Program",
+    "description": "A premium 42-hour intensive program combining European digital standards, artificial intelligence, and performance engineering. Lyon, France."
+  },
+  "nav": {
+    "switchLang": "Language"
+  },
+  "hero": {
+    "title": "Eco-Responsible Web Development",
+    "subtitle": "European Standards × Artificial Intelligence × SEO",
+    "badge": "42h Intensive — Lyon — International Program",
+    "cta": "Apply Now",
+    "ctaSecondary": "Explore Program"
+  },
+  "shift": {
+    "line1": "The digital market is evolving.",
+    "line2": "Performance is no longer optional.",
+    "line3": "Sustainability is becoming the standard."
+  },
+  "ai": {
+    "sectionLabel": "AI Integration",
+    "title": "AI-Augmented Development",
+    "description": "We don't just teach code. We teach engineers how to leverage AI to build faster, smarter, and more sustainable digital products — aligned with European standards.",
+    "features": [
+      "AI-assisted code generation & review",
+      "Intelligent performance optimization",
+      "Automated accessibility auditing",
+      "Smart SEO architecture patterns"
+    ],
+    "panel": {
+      "lighthouse": "Lighthouse Score",
+      "seo": "SEO Rating",
+      "accessibility": "Accessibility",
+      "performance": "Performance",
+      "aiSuggestion": "AI Suggestion",
+      "aiSuggestionText": "Optimize LCP by lazy-loading below-fold images and preloading critical fonts.",
+      "codeComment": "// AI-optimized component architecture"
+    }
+  },
+  "bento": {
+    "sectionLabel": "Technical Standards",
+    "sectionTitle": "What You'll Master",
+    "cards": [
+      {
+        "title": "European Standards",
+        "description": "GDPR, EU Accessibility Act, digital sovereignty",
+        "points": [
+          "GDPR compliance & data protection",
+          "EU Accessibility Act implementation",
+          "European digital sovereignty principles",
+          "Cross-border regulatory frameworks"
+        ]
+      },
+      {
+        "title": "AI-Augmented Engineering",
+        "description": "Leverage AI across the development lifecycle",
+        "points": [
+          "AI-assisted code generation workflows",
+          "Automated testing with AI tools",
+          "Intelligent performance optimization",
+          "Ethical AI integration patterns"
+        ]
+      },
+      {
+        "title": "Performance & SEO Architecture",
+        "description": "Build fast, rank high, stay compliant",
+        "points": [
+          "Core Web Vitals mastery",
+          "Server-side rendering strategies",
+          "Edge computing & CDN optimization",
+          "Technical SEO at scale"
+        ]
+      },
+      {
+        "title": "Legal & Google Compliance",
+        "description": "Ship with confidence across EU markets",
+        "points": [
+          "Cookie consent implementation",
+          "Privacy-first analytics setup",
+          "Google Search Console integration",
+          "Structured data & rich results"
+        ]
+      },
+      {
+        "title": "Impact for Uzbekistan",
+        "description": "Transfer EU standards to emerging markets",
+        "points": [
+          "EU standard adaptation for emerging markets",
+          "Building competitive digital infrastructure",
+          "Certificate of participation",
+          "Cross-market technology transfer"
+        ]
+      },
+      {
+        "title": "Tool Stack & Ecosystem",
+        "description": "Professional tools for production-ready development",
+        "points": [
+          "Next.js, React, Tailwind CSS",
+          "JavaScript / TypeScript",
+          "GitHub, Vercel",
+          "Lighthouse, Google Search Console",
+          "ChatGPT, Google Antigravity"
+        ]
+      }
+    ]
+  },
+  "performance": {
+    "sectionLabel": "Performance Metrics",
+    "title": "Built for Production",
+    "items": [
+      {
+        "value": 95,
+        "suffix": "+",
+        "label": "Lighthouse Score"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Core Web Vitals"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Google Indexed"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Legal Compliant"
+      }
+    ]
+  },
+  "metrics": {
+    "items": [
+      {
+        "value": "7",
+        "label": "Days"
+      },
+      {
+        "value": "42",
+        "label": "Hours"
+      },
+      {
+        "value": "1",
+        "label": "Real Project"
+      },
+      {
+        "value": "100%",
+        "label": "Practical"
+      }
+    ]
+  },
+  "compliance": {
+    "sectionTitle": "Production-Ready Compliance",
+    "columns": [
+      {
+        "title": "Performance & Technical",
+        "items": [
+          "Core Web Vitals optimization",
+          "Lighthouse score ≥ 95",
+          "Sitemap & robots.txt generation",
+          "Google Search Console declaration",
+          "Structured data implementation"
+        ]
+      },
+      {
+        "title": "Legal & Privacy",
+        "items": [
+          "GDPR-compliant data handling",
+          "Cookie consent management",
+          "Privacy policy generation",
+          "Terms of service framework",
+          "Data processing agreements"
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "sectionLabel": "Get Started",
+    "title": "Transfer European Digital Standards to Your Market.",
+    "subtitle": "Join the next generation of AI-powered web engineers.",
+    "button": "Start Your Journey"
+  }
+}

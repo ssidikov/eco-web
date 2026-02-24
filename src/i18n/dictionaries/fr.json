@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "title": "Développement Web Éco-Responsable — Programme Européen IA",
+    "description": "Programme intensif premium de 42 heures combinant standards numériques européens, intelligence artificielle et ingénierie de performance. Lyon, France."
+  },
+  "nav": {
+    "switchLang": "Langue"
+  },
+  "hero": {
+    "title": "Développement Web Éco-Responsable",
+    "subtitle": "Standards Européens × Intelligence Artificielle × SEO",
+    "badge": "42h Intensif — Lyon — Programme International",
+    "cta": "Postuler",
+    "ctaSecondary": "Explorer le programme"
+  },
+  "shift": {
+    "line1": "Le marché numérique évolue.",
+    "line2": "La performance n'est plus optionnelle.",
+    "line3": "La durabilité devient la norme."
+  },
+  "ai": {
+    "sectionLabel": "Intégration IA",
+    "title": "Développement Augmenté par l'IA",
+    "description": "Nous n'enseignons pas seulement le code. Nous formons des ingénieurs à exploiter l'IA pour créer des produits numériques plus rapides, plus intelligents et plus durables — conformes aux normes européennes.",
+    "features": [
+      "Génération et revue de code assistées par IA",
+      "Optimisation intelligente des performances",
+      "Audit d'accessibilité automatisé",
+      "Patterns d'architecture SEO intelligents"
+    ],
+    "panel": {
+      "lighthouse": "Score Lighthouse",
+      "seo": "Note SEO",
+      "accessibility": "Accessibilité",
+      "performance": "Performance",
+      "aiSuggestion": "Suggestion IA",
+      "aiSuggestionText": "Optimisez le LCP en chargeant les images hors écran en lazy et en préchargeant les polices critiques.",
+      "codeComment": "// Architecture de composants optimisée par IA"
+    }
+  },
+  "bento": {
+    "sectionLabel": "Standards Techniques",
+    "sectionTitle": "Ce que vous maîtriserez",
+    "cards": [
+      {
+        "title": "Normes Européennes",
+        "description": "RGPD, EU Accessibility Act, souveraineté numérique",
+        "points": [
+          "Conformité RGPD et protection des données",
+          "Mise en œuvre de l'EU Accessibility Act",
+          "Principes de souveraineté numérique européenne",
+          "Cadres réglementaires transfrontaliers"
+        ]
+      },
+      {
+        "title": "Ingénierie Augmentée par l'IA",
+        "description": "Exploitez l'IA dans tout le cycle de développement",
+        "points": [
+          "Workflows de génération de code assistée par IA",
+          "Tests automatisés avec des outils IA",
+          "Optimisation intelligente des performances",
+          "Modèles d'intégration éthique de l'IA"
+        ]
+      },
+      {
+        "title": "Architecture Performance & SEO",
+        "description": "Construisez vite, classez haut, restez conforme",
+        "points": [
+          "Maîtrise des Core Web Vitals",
+          "Stratégies de rendu côté serveur",
+          "Edge computing et optimisation CDN",
+          "SEO technique à grande échelle"
+        ]
+      },
+      {
+        "title": "Conformité Légale & Google",
+        "description": "Déployez en confiance sur les marchés européens",
+        "points": [
+          "Implémentation du consentement cookies",
+          "Configuration analytics privacy-first",
+          "Intégration Google Search Console",
+          "Données structurées et résultats enrichis"
+        ]
+      },
+      {
+        "title": "Impact pour l'Ouzbékistan",
+        "description": "Transférez les standards UE vers les marchés émergents",
+        "points": [
+          "Adaptation des normes UE aux marchés émergents",
+          "Construction d'infrastructures numériques compétitives",
+          "Certificat de participation",
+          "Transfert technologique inter-marchés"
+        ]
+      },
+      {
+        "title": "Écosystème & Outils",
+        "description": "Outils professionnels pour la production",
+        "points": [
+          "Next.js, React, Tailwind CSS",
+          "JavaScript / TypeScript",
+          "GitHub, Vercel",
+          "Lighthouse, Google Search Console",
+          "ChatGPT, Google Antigravity"
+        ]
+      }
+    ]
+  },
+  "performance": {
+    "sectionLabel": "Métriques de Performance",
+    "title": "Conçu pour la Production",
+    "items": [
+      {
+        "value": 95,
+        "suffix": "+",
+        "label": "Score Lighthouse"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Core Web Vitals"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Indexé par Google"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Conformité Légale"
+      }
+    ]
+  },
+  "metrics": {
+    "items": [
+      {
+        "value": "7",
+        "label": "Jours"
+      },
+      {
+        "value": "42",
+        "label": "Heures"
+      },
+      {
+        "value": "1",
+        "label": "Projet Réel"
+      },
+      {
+        "value": "100%",
+        "label": "Pratique"
+      }
+    ]
+  },
+  "compliance": {
+    "sectionTitle": "Conformité Production-Ready",
+    "columns": [
+      {
+        "title": "Performance & Technique",
+        "items": [
+          "Optimisation Core Web Vitals",
+          "Score Lighthouse ≥ 95",
+          "Génération sitemap et robots.txt",
+          "Déclaration Google Search Console",
+          "Implémentation données structurées"
+        ]
+      },
+      {
+        "title": "Légal & Vie Privée",
+        "items": [
+          "Traitement des données conforme RGPD",
+          "Gestion du consentement cookies",
+          "Génération de politique de confidentialité",
+          "Cadre des conditions d'utilisation",
+          "Accords de traitement des données"
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "sectionLabel": "Commencer",
+    "title": "Transférez les standards numériques européens vers votre marché.",
+    "subtitle": "Rejoignez la prochaine génération d'ingénieurs web propulsés par l'IA.",
+    "button": "Commencer votre parcours"
+  }
+}

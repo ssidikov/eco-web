@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "title": "Programme — Développement Web Éco-Responsable",
+    "description": "Programme intensif de 42 heures : 7 jours de standards numériques européens, ingénierie augmentée par l'IA, architecture de performance, SEO et conformité légale. Lyon, France."
+  },
+  "hero": {
+    "label": "Programme de Formation International",
+    "title": "Développement Web — Standards Européens & IA",
+    "subtitle": "Un cursus intensif de 42 heures conçu pour transférer l'expertise numérique européenne vers les marchés internationaux. Architecture, performance, SEO, conformité légale et développement augmenté par l'IA.",
+    "detail1": "7 Jours — 42 Heures — Lyon, France",
+    "detail2": "Formation Certifiante — Programme International"
+  },
+  "vision": {
+    "label": "Vision & Impact",
+    "title": "Combler l'écart numérique européen",
+    "paragraphs": [
+      "L'écosystème numérique européen fonctionne selon des standards spécifiques combinant performance, accessibilité, conformité légale et durabilité. Ces standards représentent un avantage concurrentiel qui reste largement non transféré aux marchés numériques émergents.",
+      "Ce programme a été conçu pour combler cet écart — offrant un transfert structuré et intensif des pratiques européennes d'ingénierie web aux développeurs et équipes construisant pour les marchés internationaux, avec un focus particulier sur l'économie numérique croissante de l'Ouzbékistan.",
+      "En combinant des méthodologies institutionnelles européennes avec des workflows modernes augmentés par l'IA, les participants acquièrent non seulement des compétences techniques, mais un cadre stratégique pour construire des produits numériques répondant aux plus hauts standards internationaux."
+    ]
+  },
+  "objectives": {
+    "label": "Objectifs Stratégiques",
+    "title": "Objectifs du Programme",
+    "items": [
+      {
+        "title": "Maîtriser les standards web européens",
+        "description": "Comprendre et implémenter l'ensemble des exigences numériques européennes — des Core Web Vitals et l'accessibilité au RGPD et la conformité légale."
+      },
+      {
+        "title": "Construire une architecture orientée performance",
+        "description": "Concevoir et déployer des applications web avec Next.js utilisant SSR/SSG, JavaScript optimisé, pipelines d'images et infrastructure edge-ready."
+      },
+      {
+        "title": "Implémenter un SEO de production",
+        "description": "Déployer le SEO technique à grande échelle — métadonnées, données structurées, sitemaps, intégration Google Search Console et stratégies SEO local."
+      },
+      {
+        "title": "Assurer la conformité légale",
+        "description": "Implémenter des pages légales conformes au RGPD, la gestion du consentement cookies, les politiques de confidentialité et les cadres de traitement des données."
+      },
+      {
+        "title": "Exploiter l'IA en développement",
+        "description": "Utiliser les outils IA pour la génération de code, l'optimisation, le refactoring et l'évaluation critique — intégrant l'IA comme accélérateur professionnel."
+      },
+      {
+        "title": "Livrer un projet production-ready",
+        "description": "Terminer le programme avec un projet web entièrement déployé, audité et présentable publiquement, respectant les standards européens."
+      }
+    ]
+  },
+  "pedagogy": {
+    "label": "Approche Pédagogique",
+    "title": "Méthodologie d'apprentissage",
+    "intro": "Le programme suit une méthodologie progressive basée sur le projet. Chaque jour s'appuie sur le précédent, culminant dans un projet de production entièrement déployé.",
+    "principles": [
+      {
+        "title": "Apprentissage par projet",
+        "description": "Chaque concept est immédiatement appliqué à un projet réel. Aucun exercice abstrait — uniquement une implémentation pertinente pour la production."
+      },
+      {
+        "title": "Complexité progressive",
+        "description": "Le cursus passe des standards fondamentaux à l'optimisation avancée, assurant une compréhension profonde à chaque niveau."
+      },
+      {
+        "title": "Rigueur institutionnelle européenne",
+        "description": "Le contenu est structuré pour répondre aux attentes des institutions éducatives et professionnelles européennes."
+      },
+      {
+        "title": "Workflow augmenté par l'IA",
+        "description": "Les outils IA sont intégrés tout au long — non pas comme des raccourcis, mais comme des instruments professionnels nécessitant évaluation critique et expertise."
+      }
+    ]
+  },
+  "programme": {
+    "label": "Programme Détaillé",
+    "title": "Programme Intensif — 7 Jours",
+    "days": [
+      {
+        "day": "01",
+        "title": "Standards Numériques Européens & Évolution du Marché",
+        "topics": [
+          "Durabilité numérique et principes de développement éco-responsable",
+          "Core Web Vitals — LCP, FID, CLS — mesure et objectifs d'optimisation",
+          "Attentes légales européennes pour les produits et services numériques",
+          "Analyse de l'écart de marché — standards européens vs pratiques des marchés émergents"
+        ]
+      },
+      {
+        "day": "02",
+        "title": "Architecture & Performance avec Next.js",
+        "topics": [
+          "Stratégies de Server-Side Rendering (SSR) et Static Site Generation (SSG)",
+          "Conception d'architecture orientée performance et optimisation des composants",
+          "Optimisation des bundles JavaScript et techniques de code splitting",
+          "Pipeline d'optimisation d'images — formats, dimensionnement, lazy loading, livraison CDN"
+        ]
+      },
+      {
+        "day": "03",
+        "title": "Implémentation SEO Technique",
+        "topics": [
+          "Architecture des métadonnées — title tags, meta descriptions, protocole Open Graph",
+          "Implémentation de données structurées — JSON-LD, vocabulaires Schema.org",
+          "Génération de sitemap et configuration robots.txt",
+          "Structure de contenu SEO-first et architecture HTML sémantique"
+        ]
+      },
+      {
+        "day": "04",
+        "title": "SEO Local & Visibilité Google",
+        "topics": [
+          "Configuration, vérification et monitoring de Google Search Console",
+          "Stratégies d'indexation — demande d'indexation, rapports de couverture, inspection d'URL",
+          "Analyse d'erreurs — erreurs de crawl, ergonomie mobile, rapports Core Web Vitals",
+          "Balisage LocalBusiness schema et optimisation géo-ciblée"
+        ]
+      },
+      {
+        "day": "05",
+        "title": "Conformité Légale",
+        "topics": [
+          "Mentions légales — exigences de notice légale pour les propriétés web européennes",
+          "Génération de politique de confidentialité conforme aux exigences RGPD",
+          "Gestion du consentement cookies — implémentation et bonnes pratiques UX",
+          "Principes RGPD — minimisation des données, limitation de finalité, droits des utilisateurs"
+        ]
+      },
+      {
+        "day": "06",
+        "title": "Développement Augmenté par l'IA",
+        "topics": [
+          "Génération de code assistée par IA — prompt engineering pour les workflows de développement",
+          "Optimisation de performance utilisant des outils d'analyse propulsés par l'IA",
+          "Refactoring de code avec l'IA — patterns, anti-patterns et assurance qualité",
+          "Évaluation critique des sorties IA — précision, sécurité et maintenabilité"
+        ]
+      },
+      {
+        "day": "07",
+        "title": "Projet Final & Déploiement",
+        "topics": [
+          "Déploiement complet du projet — build de production, hébergement, configuration du domaine",
+          "Audit Lighthouse — atteindre et maintenir des scores au-dessus de 95",
+          "Validation SEO — par les participants, soumission Search Console, vérification de l'indexation",
+          "Présentation publique — soutenance du projet et démonstration professionnelle"
+        ]
+      }
+    ]
+  },
+  "curriculum": {
+    "label": "Détail du Cursus",
+    "title": "Cursus Technique",
+    "modules": [
+      {
+        "title": "Architecture & Performance",
+        "description": "Architecture web moderne avec Next.js App Router et principes de conception orientés performance.",
+        "items": [
+          "Next.js App Router — layouts, routes, server components",
+          "Stratégies de rendu SSR / SSG et hydratation",
+          "Analyse de bundles et optimisation JavaScript",
+          "Optimisation d'images et pipelines de livraison d'assets",
+          "Monitoring et optimisation des Core Web Vitals",
+          "Déploiement edge et configuration CDN"
+        ]
+      },
+      {
+        "title": "Ingénierie SEO",
+        "description": "Implémentation SEO technique à l'échelle de la production.",
+        "items": [
+          "Architecture de métadonnées et protocole Open Graph",
+          "Données structurées JSON-LD — Article, Organization, LocalBusiness",
+          "Génération dynamique de sitemap et robots.txt",
+          "Intégration et monitoring Google Search Console",
+          "Optimisation du budget de crawl et stratégies d'indexation",
+          "Rich results et ciblage des fonctionnalités SERP"
+        ]
+      },
+      {
+        "title": "Légal & Conformité",
+        "description": "Implémentation du cadre légal européen pour les produits numériques.",
+        "items": [
+          "Principes RGPD et exigences de traitement des données",
+          "Génération de mentions légales",
+          "Politique de confidentialité conforme aux réglementations UE",
+          "Consentement cookies — implémentation technique et UX",
+          "Accords de traitement des données et conformité tierce",
+          "Exigences d'accessibilité selon l'EU Accessibility Act"
+        ]
+      },
+      {
+        "title": "Intégration IA",
+        "description": "Intégration professionnelle d'outils IA dans le cycle de développement.",
+        "items": [
+          "Génération de code assistée par IA et prompt engineering",
+          "Analyse de performance avec outils propulsés par IA",
+          "Revue de code automatisée et refactoring",
+          "Évaluation et contrôle qualité du contenu généré par IA",
+          "Usage éthique de l'IA en développement professionnel",
+          "Limitations et évaluation des risques des sorties IA"
+        ]
+      }
+    ]
+  },
+  "uzbekistan": {
+    "label": "Impact International",
+    "title": "Impact pour l'Ouzbékistan",
+    "intro": "Le marché numérique de l'Ouzbékistan connaît une croissance rapide. Ce programme est spécifiquement conçu pour accélérer le transfert des standards numériques européens vers les développeurs et organisations ouzbeks.",
+    "points": [
+      {
+        "title": "Transfert de standards",
+        "description": "Transfert direct des standards d'ingénierie web européens — performance, SEO, accessibilité et conformité légale — vers l'industrie numérique croissante de l'Ouzbékistan."
+      },
+      {
+        "title": "Avantage concurrentiel",
+        "description": "Les participants obtiennent un avantage concurrentiel en maîtrisant des standards de plus en plus requis pour les projets internationaux et l'accès au marché européen."
+      },
+      {
+        "title": "Certificat de participation",
+        "description": "Le programme délivre un certificat de participation, validant l'exposition aux standards européens pour les professionnels ouzbeks."
+      },
+      {
+        "title": "Partenariat institutionnel",
+        "description": "Construction de partenariats institutionnels à long terme entre organisations éducatives et professionnelles françaises et ouzbèkes."
+      }
+    ]
+  },
+  "outcomes": {
+    "label": "Résultats Concrets",
+    "title": "Ce que les participants livrent",
+    "items": [
+      "Un site web de production entièrement déployé conforme aux standards européens",
+      "Score de performance Lighthouse ≥ 95 sur toutes les métriques",
+      "Implémentation SEO technique complète avec indexation Google",
+      "Conformité légale — politique de confidentialité RGPD, consentement cookies, mentions légales",
+      "Implémentation de données structurées avec éligibilité aux résultats enrichis",
+      "Intégration d'un workflow de développement augmenté par l'IA",
+      "Présentation et soutenance professionnelle du projet"
+    ]
+  },
+  "closing": {
+    "label": "Conclusion du Programme",
+    "title": "Un standard européen pour le monde",
+    "description": "Ce programme représente plus qu'une formation. C'est un transfert structuré de l'excellence en ingénierie numérique européenne — conçu pour les professionnels qui construisent aux standards internationaux, propulsé par l'IA et validé par le déploiement en production.",
+    "cta": "Postuler au programme"
+  }
+}

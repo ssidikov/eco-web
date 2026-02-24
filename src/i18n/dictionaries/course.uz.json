@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "title": "Dastur — Yevropa standartlari asosida ekologik veb-saytlar",
+    "description": "7 kunlik intensiv: Sun’iy intellekt va SEO orqali mahalliy raqamli bozorni transformatsiya qilish. Yevropa standartlari. Lyon, Fransiya."
+  },
+  "hero": {
+    "label": "Dastur konsepsiyasi",
+    "title": "Yevropa standartlari asosida ekologik veb-saytlarni dasturlash",
+    "subtitle": "Sun’iy intellekt va SEO orqali mahalliy raqamli bozorni transformatsiya qilish",
+    "detail1": "7 kun — 42 soat — Lyon, Fransiya",
+    "detail2": "Intensiv format — Xalqaro dastur",
+    "cta": "Dasturga qo'shilish",
+    "ctaSecondary": "Dasturni o'rganish"
+  },
+  "vision": {
+    "label": "Dastur qarashlari",
+    "title": "Dastur qarashlari va ahamiyati",
+    "paragraphs": [
+      "Bugungi kunda raqamli bozor tobora yuqori talablar qo‘ymoqda. Oddiy ishlaydigan sayt yaratish endi yetarli emas — u tezkor, optimallashtirilgan, huquqiy jihatdan to‘g‘ri va zamonaviy arxitektura asosida qurilgan bo‘lishi kerak.",
+      "Yevropada, ayniqsa Fransiyada, professional veb-loyiha quyidagi talablarga javob berishi zarur: yuqori darajadagi ishlash tezligi (unumdorlik), raqamli barqarorlik va resurslardan oqilona foydalanish tamoyillariga rioya qilish, to‘g‘ri tuzilgan SEO-struktura, huquqiy talablarni bajarish (GDPR, majburiy huquqiy sahifalar) va Google Search Console kabi rasmiy vositalar orqali nazorat va indeksatsiya monitoringi.",
+      "Ushbu dastur Yevropa tajribasini mahalliy mutaxassislarga yetkazish va O‘zbekistonda veb-dasturlash sifatini xalqaro darajaga yaqinlashtirishni maqsad qiladi."
+    ]
+  },
+  "objectives": {
+    "label": "Strategik maqsadlar",
+    "title": "Strategik maqsadlar",
+    "items": [
+      {
+        "title": "Yevropa talablari",
+        "description": "Yevropa talablariga mos ekologik veb-saytlar yaratish."
+      },
+      {
+        "title": "Yuqori unumdorlik",
+        "description": "Core Web Vitals ko‘rsatkichlari bo‘yicha yuqori natijalarga erishish."
+      },
+      {
+        "title": "Texnik SEO",
+        "description": "Texnik va mahalliy SEO ni joriy etish."
+      },
+      {
+        "title": "Google nazorati",
+        "description": "Saytni Google Search Console orqali to‘g‘ri ulash va monitoring qilish."
+      },
+      {
+        "title": "Huquqiy moslik",
+        "description": "Veb-loyihalarni Yevropa huquqiy talablariga moslashtirish (GDPR)."
+      },
+      {
+        "title": "Sun’iy intellekt",
+        "description": "Sun’iy intellektdan professional vosita sifatida foydalanish."
+      }
+    ]
+  },
+  "pedagogy": {
+    "label": "Ta’lim yondashuvi",
+    "title": "Intensiv shakl: 7 kun",
+    "intro": "Ta’lim intensiv shaklda o‘tkaziladi — 7 kun, 42 akademik soat. Dastur real loyiha asosida qurilgan: har bir ishtirokchi mahalliy biznes uchun to‘liq veb-sayt ishlab chiqadi va arxitekturadan tortib joylashtirishgacha bo‘lgan jarayonni bosqichma-bosqich o‘zlashtiradi.",
+    "principles": [
+      {
+        "title": "Real loyiha",
+        "description": "Har bir ishtirokchi biznes uchun to‘liq veb-sayt ishlab chiqadi."
+      },
+      {
+        "title": "Intensiv format",
+        "description": "Amaliy o'rganish va asosiy ko'nikmalarni rivojlantirish uchun 42 soatlik ta'lim."
+      },
+      {
+        "title": "Tahlil va baholash",
+        "description": "Sun’iy intellekt natijalarini tahlil qilish va tanqidiy baholash."
+      },
+      {
+        "title": "Yevropa standarti",
+        "description": "Yevropa tajribasi, ma'lumotlarni himoya qilish tamoyillari va sifat standartlari."
+      }
+    ]
+  },
+  "programme": {
+    "label": "Dastur jadvali",
+    "title": "7 kunlik intensiv ta'lim",
+    "days": [
+      {
+        "day": "01",
+        "title": "Ekologik veb-saytlar standartlari",
+        "topics": [
+          "Raqamli barqarorlik va ekologik yondashuv asoslari",
+          "Core Web Vitals ko'rsatkichlari tahlili",
+          "GDPR va majburiy huquqiy talablar"
+        ]
+      },
+      {
+        "day": "02",
+        "title": "Arxitektura va Next.js",
+        "topics": [
+          "Next.js asosida loyiha (SSR / SSG) yaratish",
+          "Ishlash tezligini baholash",
+          "JavaScript kodi va resurslarni optimallashtirish"
+        ]
+      },
+      {
+        "day": "03",
+        "title": "Texnik va mahalliy SEO",
+        "topics": [
+          "Dinamik metama’lumotlarni sozlash poydevori",
+          "Sitemap.xml va robots.txt fayllarini yaratish",
+          "Structured Data (LocalBusiness) ma'lumotlarini joriy etish"
+        ]
+      },
+      {
+        "day": "04",
+        "title": "Google indeksatsiya va ko'rinish",
+        "topics": [
+          "Saytni Google Search Console ga ulash",
+          "Sayt indeksatsiyasining chuqur tahlili",
+          "Texnik xatolarni tuzatish va monitoring"
+        ]
+      },
+      {
+        "day": "05",
+        "title": "Huquqiy moslik va ma'lumotlar xavfsizligi",
+        "topics": [
+          "Majburiy huquqiy sahifalarni tayyorlash",
+          "Maxfiylik siyosati matnlari va konfiguratsiya",
+          "Cookie boshqaruvi va foydalanuvchi ma'lumotlari himoyasi (GDPR)"
+        ]
+      },
+      {
+        "day": "06",
+        "title": "Sun’iy intellekt professional vosita sifatida",
+        "topics": [
+          "Kodni va komponentlarni strukturali generatsiya qilish",
+          "Mavjud kodni Sun'iy intellekt yordamida optimallashtirish va refaktor qilish",
+          "Sun'iy intellekt taqdim etgan natijalarni tahlil qilish va baholash"
+        ]
+      },
+      {
+        "day": "07",
+        "title": "Loyihani yakunlash va nashr qilish",
+        "topics": [
+          "Real loyihani serverga joylashtirish va sozlash",
+          "Lighthouse orqali unumdorlik auditi natijalarini yaxshilash",
+          "Yakuniy loyiha taqdimoti"
+        ]
+      }
+    ]
+  },
+  "curriculum": {
+    "label": "O'quv rejasi",
+    "title": "Asosiy o'quv modullari",
+    "modules": [
+      {
+        "title": "Arxitektura va ishlash tezligi",
+        "description": "Next.js asosida tezkor, ilg'or loyiha tuzilmasi.",
+        "items": [
+          "Next.js asosida loyiha tuzish (SSR / SSG)",
+          "Rasm va JavaScript optimallashtirish",
+          "Lighthouse orqali unumdorlik auditi (maqsad — 90+ ko‘rsatkich)"
+        ]
+      },
+      {
+        "title": "SEO va ko‘rinish",
+        "description": "Google indeksatsiyasini kuchaytirish hamda biznes vidimostini oshirish.",
+        "items": [
+          "Dinamik metama’lumotlarni sozlash",
+          "Sitemap.xml va robots.txt yaratish",
+          "Structured Data (LocalBusiness) joriy etish",
+          "Saytni Google Search Console ga ulash",
+          "Indeksatsiya tahlili va texnik xatolarni tuzatish"
+        ]
+      },
+      {
+        "title": "Huquqiy moslik",
+        "description": "Loyihani Yevropa qonunchiligi bilan to'g'ri integratsiya qilish.",
+        "items": [
+          "Huquqiy ma’lumotlar sahifasi (Mentions légales)",
+          "Xavfsiz va aniq Maxfiylik siyosati",
+          "Cookie boshqaruvi mexanizmi",
+          "Yevropa ma’lumotlarni himoya qilish tamoyillari (GDPR)"
+        ]
+      },
+      {
+        "title": "Sun’iy intellekt",
+        "description": "Generativ sun'iy intellekt ishlatib samaradorlikni zamonaviy yondashuvini qo'llash.",
+        "items": [
+          "Komponentlarni strukturali generatsiya qilish",
+          "Kodni optimallashtirish va refaktor qilish",
+          "Sun’iy intellekt natijalarini tahlil qilish va baholash",
+          "Sun'iy intellektni samaradorlikni oshirish vositasi sifatida qo'llash"
+        ]
+      }
+    ]
+  },
+  "uzbekistan": {
+    "label": "Ta'sir va istiqbol",
+    "title": "O‘zbekiston uchun kutilayotgan ta’sir",
+    "intro": "Dastur raqamli sektor raqobatbardoshligini kuchaytirishga, IT xizmatlar eksportiga tayyorgarlikni oshirishga va xalqaro me’yorlarga bosqichma-bosqich moslashishni ta’minlashga xizmat qiladi.",
+    "points": [
+      {
+        "title": "Saytlar sifatini oshirish",
+        "description": "Mahalliy veb-saytlarning texnik va huquqiy sifatini oshirish."
+      },
+      {
+        "title": "Raqobatbardoshlik madaniyati",
+        "description": "Unumdorlik va standartlarga rioya qilish madaniyatini shakllantirish."
+      },
+      {
+        "title": "Ishonch va ko'rinish",
+        "description": "Onlayn biznes ishonchliligini mustahkamlash va mahalliy kompaniyalar ko‘rinishini oshirish."
+      },
+      {
+        "title": "Xalqaro mutaxassislik",
+        "description": "Xalqaro standartlarda ishlay oladigan mutaxassislarni tayyorlash."
+      }
+    ]
+  },
+  "outcomes": {
+    "label": "Amaliy natijalar",
+    "title": "Dastur yakunida ishtirokchi quyidagilarga erishadi:",
+    "items": [
+      "Yevropa standartlariga to‘la javob beradigan, to‘liq ishga tushirilgan veb-sayt",
+      "Barcha metrikalar bo‘yicha Lighthouse unumdorlik ko‘rsatkichi ≥ 95",
+      "Google indeksatsiyasini o'z ichiga olgan mukammal texnik SEO",
+      "Huquqiy moslik — GDPR standartlariga asoslangan maxfiylik siyosati va cookie ruxsatnomalari",
+      "Kengaytirilgan natijalar (rich results) imkoniyati bilan strukturalangan ma’lumotlarni joriy etish",
+      "Sun’iy intellekt bilan boyitilgan dasturlash jarayonlarini integratsiya qilish",
+      "Loyihaning professional taqdimoti va himoyasi"
+    ]
+  },
+  "closing": {
+    "label": "Xulosa va keyingi qadamlar",
+    "title": "Xalqaro standartlarni tizimli integratsiya qilish",
+    "description": "Mazkur dastur Yevropa standartlarini O‘zbekiston raqamli rivojlanishiga tizimli ravishda integratsiya qilishga, o'sish potentsiali va eksport muhitini yaxshilashga qaratilgan.",
+    "cta": "Dasturga ariza topshirish"
+  }
+}

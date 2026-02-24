@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "title": "Programme — Eco-Responsible Web Development",
+    "description": "42-hour intensive program: 7 days of European digital standards, AI-augmented engineering, performance architecture, SEO, and legal compliance. Lyon, France."
+  },
+  "hero": {
+    "label": "International Training Program",
+    "title": "Web Development — European Standards & AI",
+    "subtitle": "A 42-hour intensive curriculum designed to transfer European digital expertise to international markets. Architecture, performance, SEO, legal compliance, and AI-augmented development.",
+    "detail1": "7 Days — 42 Hours — Lyon, France",
+    "detail2": "Certified Training — International Program"
+  },
+  "vision": {
+    "label": "Vision & Impact",
+    "title": "Bridging The European Digital Gap",
+    "paragraphs": [
+      "The European digital ecosystem operates under specific standards that combine performance, accessibility, legal compliance, and sustainability. These standards represent a competitive advantage that remains largely untransferred to emerging digital markets.",
+      "This program was designed to bridge that gap — offering a structured, intensive transfer of European web engineering practices to developers and teams building for international markets, with a particular focus on Uzbekistan's growing digital economy.",
+      "By combining institutional European methodologies with modern AI-augmented workflows, participants gain not just technical skills, but a strategic framework for building digital products that meet the highest international standards."
+    ]
+  },
+  "objectives": {
+    "label": "Strategic Objectives",
+    "title": "Programme Objectives",
+    "items": [
+      {
+        "title": "Master European Web Standards",
+        "description": "Understand and implement the full stack of European digital requirements — from Core Web Vitals and accessibility to GDPR and legal compliance."
+      },
+      {
+        "title": "Build Performance-First Architecture",
+        "description": "Design and deploy web applications using Next.js with SSR/SSG, optimized JavaScript, image pipelines, and edge-ready infrastructure."
+      },
+      {
+        "title": "Implement Production-Grade SEO",
+        "description": "Deploy technical SEO at scale — metadata, structured data, sitemaps, Google Search Console integration, and local SEO strategies."
+      },
+      {
+        "title": "Ensure Legal Compliance",
+        "description": "Implement GDPR-aligned legal pages, cookie consent management, privacy policies, and data processing frameworks."
+      },
+      {
+        "title": "Leverage AI in Development",
+        "description": "Use AI tools for code generation, optimization, refactoring, and critical evaluation — integrating AI as a professional development accelerator."
+      },
+      {
+        "title": "Deliver a Production-Ready Project",
+        "description": "Complete the program with a fully deployed, audited, and publicly presentable web project meeting European standards."
+      }
+    ]
+  },
+  "pedagogy": {
+    "label": "Pedagogical Approach",
+    "title": "Learning Methodology",
+    "intro": "The program follows a progressive, project-based methodology. Each day builds on the previous, culminating in a fully deployed production project.",
+    "principles": [
+      {
+        "title": "Project-Based Learning",
+        "description": "Every concept is immediately applied to a real project. No abstract exercises — only production-relevant implementation."
+      },
+      {
+        "title": "Progressive Complexity",
+        "description": "The curriculum moves from foundational standards to advanced optimization, ensuring deep understanding at every level."
+      },
+      {
+        "title": "European Institutional Rigor",
+        "description": "Content is structured to meet the expectations of European educational and professional institutions."
+      },
+      {
+        "title": "AI-Augmented Workflow",
+        "description": "AI tools are integrated throughout — not as shortcuts, but as professional instruments requiring critical evaluation and expertise."
+      }
+    ]
+  },
+  "programme": {
+    "label": "Detailed Programme",
+    "title": "7-Day Intensive Programme",
+    "days": [
+      {
+        "day": "01",
+        "title": "European Digital Standards & Market Evolution",
+        "topics": [
+          "Digital sustainability and eco-responsible development principles",
+          "Core Web Vitals — LCP, FID, CLS — measurement and optimization targets",
+          "European legal expectations for digital products and services",
+          "Market gap analysis — European standards vs. emerging market practices"
+        ]
+      },
+      {
+        "day": "02",
+        "title": "Architecture & Performance with Next.js",
+        "topics": [
+          "Server-Side Rendering (SSR) and Static Site Generation (SSG) strategies",
+          "Performance-first architecture design and component optimization",
+          "JavaScript bundle optimization and code splitting techniques",
+          "Image optimization pipeline — formats, sizing, lazy loading, CDN delivery"
+        ]
+      },
+      {
+        "day": "03",
+        "title": "Technical SEO Implementation",
+        "topics": [
+          "Metadata architecture — title tags, meta descriptions, Open Graph protocol",
+          "Structured data implementation — JSON-LD, Schema.org vocabularies",
+          "Sitemap generation and robots.txt configuration",
+          "SEO-first content structure and semantic HTML architecture"
+        ]
+      },
+      {
+        "day": "04",
+        "title": "Local SEO & Google Visibility",
+        "topics": [
+          "Google Search Console setup, verification, and monitoring",
+          "Indexing strategies — request indexing, coverage reports, URL inspection",
+          "Error analysis — crawl errors, mobile usability, Core Web Vitals reports",
+          "LocalBusiness schema markup and geo-targeted optimization"
+        ]
+      },
+      {
+        "day": "05",
+        "title": "Legal Compliance",
+        "topics": [
+          "Mentions légales — legal notice requirements for European web properties",
+          "Privacy policy generation aligned with GDPR requirements",
+          "Cookie consent management — implementation and UX best practices",
+          "GDPR principles — data minimization, purpose limitation, user rights"
+        ]
+      },
+      {
+        "day": "06",
+        "title": "AI-Augmented Development",
+        "topics": [
+          "AI-assisted code generation — prompt engineering for development workflows",
+          "Performance optimization using AI-powered analysis tools",
+          "Code refactoring with AI — patterns, anti-patterns, and quality assurance",
+          "Critical evaluation of AI outputs — accuracy, security, and maintainability"
+        ]
+      },
+      {
+        "day": "07",
+        "title": "Final Project & Deployment",
+        "topics": [
+          "Full project deployment — production build, hosting, domain configuration",
+          "Lighthouse audit — achieving and maintaining scores above 95",
+          "SEO validation — Search Console submission by participants, indexing verification",
+          "Public presentation — project defense and professional demonstration"
+        ]
+      }
+    ]
+  },
+  "curriculum": {
+    "label": "Curriculum Breakdown",
+    "title": "Technical Curriculum",
+    "modules": [
+      {
+        "title": "Architecture & Performance",
+        "description": "Modern web architecture using Next.js App Router with performance-first design principles.",
+        "items": [
+          "Next.js App Router — layouts, routes, server components",
+          "SSR / SSG rendering strategies and hydration",
+          "Bundle analysis and JavaScript optimization",
+          "Image optimization and asset delivery pipelines",
+          "Core Web Vitals monitoring and optimization",
+          "Edge deployment and CDN configuration"
+        ]
+      },
+      {
+        "title": "SEO Engineering",
+        "description": "Technical SEO implementation at production scale.",
+        "items": [
+          "Metadata architecture and Open Graph protocol",
+          "JSON-LD structured data — Article, Organization, LocalBusiness",
+          "Dynamic sitemap and robots.txt generation",
+          "Google Search Console integration and monitoring",
+          "Crawl budget optimization and indexing strategies",
+          "Rich results and SERP feature targeting"
+        ]
+      },
+      {
+        "title": "Legal & Compliance",
+        "description": "European legal framework implementation for digital products.",
+        "items": [
+          "GDPR principles and data processing requirements",
+          "Legal notice (mentions légales) generation",
+          "Privacy policy aligned with EU regulations",
+          "Cookie consent — technical implementation and UX",
+          "Data processing agreements and third-party compliance",
+          "Accessibility requirements under EU Accessibility Act"
+        ]
+      },
+      {
+        "title": "AI Integration",
+        "description": "Professional AI tools integration across the development lifecycle.",
+        "items": [
+          "AI-assisted code generation and prompt engineering",
+          "Performance analysis with AI-powered tools",
+          "Automated code review and refactoring",
+          "AI-generated content evaluation and quality control",
+          "Ethical AI usage in professional development",
+          "Limitations and risk assessment of AI outputs"
+        ]
+      }
+    ]
+  },
+  "uzbekistan": {
+    "label": "International Impact",
+    "title": "Impact for Uzbekistan",
+    "intro": "Uzbekistan's digital market is experiencing rapid growth. This program is specifically designed to accelerate the transfer of European digital standards to Uzbek developers and organisations.",
+    "points": [
+      {
+        "title": "Standard Transfer",
+        "description": "Direct transfer of European web engineering standards — performance, SEO, accessibility, and legal compliance — to Uzbekistan's growing digital industry."
+      },
+      {
+        "title": "Competitive Advantage",
+        "description": "Participants gain a competitive edge by mastering standards that are increasingly required for international projects and European market access."
+      },
+      {
+        "title": "Certificate of Participation",
+        "description": "The program grants a certificate of participation, validating exposure to European-standard competencies for Uzbek professionals."
+      },
+      {
+        "title": "Institutional Partnership",
+        "description": "Building long-term institutional partnerships between French and Uzbek educational and professional organisations."
+      }
+    ]
+  },
+  "outcomes": {
+    "label": "Concrete Outcomes",
+    "title": "What Participants Deliver",
+    "items": [
+      "A fully deployed production website meeting European standards",
+      "Lighthouse performance score ≥ 95 across all metrics",
+      "Complete technical SEO implementation with Google indexing",
+      "Legal compliance — GDPR-aligned privacy policy, cookie consent, legal notices",
+      "Structured data implementation with rich result eligibility",
+      "AI-augmented development workflow integration",
+      "Professional project presentation and defense"
+    ]
+  },
+  "closing": {
+    "label": "Programme Conclusion",
+    "title": "A European Standard for the World",
+    "description": "This program represents more than a training course. It is a structured transfer of European digital engineering excellence — designed for professionals who build for international standards, powered by AI, and validated by production deployment.",
+    "cta": "Apply to the Programme"
+  }
+}

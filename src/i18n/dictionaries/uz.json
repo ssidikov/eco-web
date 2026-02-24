@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "title": "Eko-mas'uliyatli veb-dasturlash — Yevropacha Sun'iy intellekt dasturi",
+    "description": "Yevropa raqamli standartlari, sun'iy intellekt va unumdorlik muhandisligini birlashtirgan 42 soatlik premium intensiv dastur. Lyon, Fransiya."
+  },
+  "nav": {
+    "switchLang": "Til"
+  },
+  "hero": {
+    "title": "Eko-mas'uliyatli veb-dasturlash",
+    "subtitle": "Yevropa standartlari × Sun'iy intellekt × SEO",
+    "badge": "42 soat Intensiv — Lyon — Xalqaro dastur",
+    "cta": "Ariza berish",
+    "ctaSecondary": "Dasturni o'rganish"
+  },
+  "shift": {
+    "line1": "Raqamli bozor o'zgarmoqda.",
+    "line2": "Samaradorlik endi ixtiyoriy emas.",
+    "line3": "Barqarorlik standartga aylanmoqda."
+  },
+  "ai": {
+    "sectionLabel": "Sun'iy intellekt integratsiyasi",
+    "title": "Sun'iy intellekt yordamida dasturlash",
+    "description": "Biz faqat kod o'rgatmaymiz. Biz muhandislarga Sun'iy intellekt yordamida tezroq, aqlliroq va barqarorroq raqamli mahsulotlar yaratishni o'rgatamiz — Yevropa standartlariga muvofiq.",
+    "features": [
+      "Sun'iy intellekt yordamida kod yaratish va tekshirish",
+      "Aqlli unumdorlik optimallashtirish",
+      "Avtomatik foydalanish imkoniyati auditi",
+      "Aqlli SEO arxitektura naqshlari"
+    ],
+    "panel": {
+      "lighthouse": "Lighthouse bahosi",
+      "seo": "SEO reytingi",
+      "accessibility": "Foydalanish imkoniyati",
+      "performance": "Unumdorlik",
+      "aiSuggestion": "Sun'iy intellekt taklifi",
+      "aiSuggestionText": "LCP ni ekrandan tashqaridagi rasmlarni lazy yuklash va muhim shriftlarni oldindan yuklash orqali optimallashtiring.",
+      "codeComment": "// Sun'iy intellekt tomonidan optimallashtirilgan komponent arxitekturasi"
+    }
+  },
+  "bento": {
+    "sectionLabel": "Texnik standartlar",
+    "sectionTitle": "Nimalarni o'rganasiz",
+    "cards": [
+      {
+        "title": "Yevropa standartlari",
+        "description": "GDPR, EU Accessibility Act, raqamli suverenitet",
+        "points": [
+          "GDPR muvofiqlik va ma'lumotlar himoyasi",
+          "EU Accessibility Act amalga oshirish",
+          "Yevropa raqamli suverenitet tamoyillari",
+          "Transchegaraviy tartibga solish tizimlari"
+        ]
+      },
+      {
+        "title": "Sun'iy intellekt yordamida muhandislik",
+        "description": "Dasturlash jarayonida Sun'iy intellektdan foydalaning",
+        "points": [
+          "Sun'iy intellekt yordamida kod ishlab chiqish jarayonlari",
+          "Sun'iy intellekt vositalari bilan avtomatik sinovdan o'tkazish",
+          "Aqlli unumdorlik optimallashtirish",
+          "Axloqiy Sun'iy intellekt integratsiyasi namunalari"
+        ]
+      },
+      {
+        "title": "Unumdorlik va SEO arxitekturasi",
+        "description": "Tez qurin, yuqori darajada reyting oling",
+        "points": [
+          "Core Web Vitals mahorati",
+          "Server tomonidan renderlash strategiyalari",
+          "Edge computing va CDN optimallashtirish",
+          "Kengaytirilgan texnik SEO"
+        ]
+      },
+      {
+        "title": "Huquqiy va Google muvofiqlik",
+        "description": "YeI bozorlarida ishonch bilan joylashtiring",
+        "points": [
+          "Cookie rozilik amalga oshirish",
+          "Maxfiylik ustuvor analitika sozlash",
+          "Google Search Console integratsiyasi",
+          "Tuzilgan ma'lumotlar va boy natijalar"
+        ]
+      },
+      {
+        "title": "O'zbekiston uchun imkoniyatlar",
+        "description": "YeI standartlarini rivojlanayotgan bozorlarga olib keling",
+        "points": [
+          "YeI standartlarini rivojlanayotgan bozorlarga moslashtirish",
+          "Raqobatbardosh raqamli infratuzilma yaratish",
+          "Ishtirok etganlik sertifikati",
+          "Bozorlararo texnologiya transferi"
+        ]
+      },
+      {
+        "title": "Ekosistema va vositalar",
+        "description": "Professional darajadagi dasturlash vositalari",
+        "points": [
+          "Next.js, React, Tailwind CSS",
+          "JavaScript / TypeScript",
+          "GitHub, Vercel",
+          "Lighthouse, Google Search Console",
+          "ChatGPT, Google Antigravity"
+        ]
+      }
+    ]
+  },
+  "performance": {
+    "sectionLabel": "Unumdorlik ko'rsatkichlari",
+    "title": "Ishlab chiqarish uchun yaratilgan",
+    "items": [
+      {
+        "value": 95,
+        "suffix": "+",
+        "label": "Lighthouse bahosi"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Core Web Vitals"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Google indekslangan"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Huquqiy muvofiqlik"
+      }
+    ]
+  },
+  "metrics": {
+    "items": [
+      {
+        "value": "7",
+        "label": "Kun"
+      },
+      {
+        "value": "42",
+        "label": "Soat"
+      },
+      {
+        "value": "1",
+        "label": "Haqiqiy loyiha"
+      },
+      {
+        "value": "100%",
+        "label": "Amaliyot"
+      }
+    ]
+  },
+  "compliance": {
+    "sectionTitle": "Ishlab chiqarishga tayyor muvofiqlik",
+    "columns": [
+      {
+        "title": "Unumdorlik va texnika",
+        "items": [
+          "Core Web Vitals optimallashtirish",
+          "Lighthouse ball ≥ 95",
+          "Sitemap va robots.txt yaratish",
+          "Google Search Console deklaratsiyasi",
+          "Tuzilgan ma'lumotlarni amalga oshirish"
+        ]
+      },
+      {
+        "title": "Huquqiy va maxfiylik",
+        "items": [
+          "GDPR ga muvofiq ma'lumotlarni qayta ishlash",
+          "Cookie rozilik boshqaruvi",
+          "Maxfiylik siyosatini yaratish",
+          "Foydalanish shartlari tizimi",
+          "Ma'lumotlarni qayta ishlash shartnomalari"
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "sectionLabel": "Boshlash",
+    "title": "Yevropa raqamli standartlarini o'z bozoringizga olib keling.",
+    "subtitle": "Sun'iy intellekt bilan ishlaydigan veb-muhandislarning yangi avlodiga qo'shiling.",
+    "button": "Sayohatingizni boshlang"
+  }
+}
