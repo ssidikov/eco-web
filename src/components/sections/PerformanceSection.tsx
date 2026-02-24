@@ -105,7 +105,7 @@ function PerformanceCard({
     <div
       ref={ref}
       className={`reveal-up reveal-delay-${index + 1} ${isVisible ? 'visible' : ''} rounded-3xl bg-white p-8 text-center shadow-sm`}>
-      <span className='block text-5xl font-bold tracking-tight text-eco sm:text-6xl'>
+      <span className='block text-3xl font-bold tracking-tight text-eco sm:text-4xl'>
         <AnimatedCounter target={item.value} suffix={item.suffix} />
       </span>
       <span className='mt-3 block text-sm font-medium text-neutral-400 sm:text-base'>
