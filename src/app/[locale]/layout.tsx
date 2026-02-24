@@ -76,7 +76,7 @@ export default async function LocaleLayout({ children, params }: LayoutProps) {
             <div className='flex items-center gap-6'>
               <Link
                 href={`/${safeLocale}/programme`}
-                className='text-sm font-medium text-neutral-600 transition-colors duration-200 hover:text-eco'>
+                className='text-sm text-center font-medium text-neutral-600 transition-colors duration-200 hover:text-eco'>
                 {dict.hero.ctaSecondary}
               </Link>
               <LanguageSwitcher currentLocale={safeLocale} />
